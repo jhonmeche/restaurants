@@ -9,7 +9,7 @@ import FavoritesStack from './FavoritesStack'
 import TopRestaurantsStack from './TopRestaurantsStack'
 import SearchStack from './SearchStack'
 import AccountStack from './AccountStack'
-import { color } from 'react-native-reanimated'
+
 
 
 

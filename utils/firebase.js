@@ -10,4 +10,4 @@ import 'firebase/firestore'
     appId: "1:844308444523:web:97484496d1da121638882e"
   };
   // Initialize Firebase
-export const firebaseapp = firebase.initializeApp(firebaseConfig)
+export const firebaseApp = firebase.initializeApp(firebaseConfig) 
